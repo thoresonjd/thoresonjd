@@ -29,12 +29,12 @@ Some fun facts about me:
   <h2>Socials</h2>
   <div>
     <a href="https://linkedin.com/in/justinthoreson">
-      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" />
+      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://instagram.com/exulgor/">
-      <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" />
+      <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-EXULGOR%230924-%237289da" />
+    <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-EXULGOR%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white" />
     <br>
     <img alt="Snapchat Snapcode" src="https://user-images.githubusercontent.com/77815463/140634145-32a5c929-a47c-44cb-b614-89fa63f591c3.png" width="200" height="200" />
   </div>
