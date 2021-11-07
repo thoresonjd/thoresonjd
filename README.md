@@ -34,10 +34,10 @@ Some fun facts about me:
     <a href="https://instagram.com/exulgor/">
       <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-EXULGOR%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white" />
     <a href="https://soundcloud.com/exulgor">
       <img alt="SoundCloud Badge" src="https://img.shields.io/badge/-SoundCloud-%23ff5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
     </a>
+    <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-EXULGOR%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white" />
     <br>
     <img alt="Snapchat Snapcode" src="https://user-images.githubusercontent.com/77815463/140634145-32a5c929-a47c-44cb-b614-89fa63f591c3.png" width="200" height="200" />
   </div>
