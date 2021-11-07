@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <sub>Connect with me!</sub>
+  <h2>Socials</h2>
   <div>
     <a href="https://linkedin.com/in/justinthoreson">
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" />
