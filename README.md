@@ -15,33 +15,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Justin!
+## I'm Justin!
 
-Some fun facts about me:
-- 🎓 Senior Computer Science major at Seattle University
-- 💻 Love to code
-- 🌲 Born and raised in the PNW 🌊🌌
-- ❤️ Love WA 📍
-- 🌇 Enjoy working out and long walks around the city 🌃 
-- 😊 Love spending time with my friends
-
-<div>
-  <h2>Socials</h2>
-  <div>
-    <a href="https://linkedin.com/in/justinthoreson">
-      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/exulgor/">
-      <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://soundcloud.com/exulgor">
-      <img alt="SoundCloud Badge" src="https://img.shields.io/badge/-SoundCloud-%23ff5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
-    </a>
-    <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-EXULGOR%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white" />
-    <br>
-    <img alt="Snapchat Snapcode" src="https://user-images.githubusercontent.com/77815463/140634145-32a5c929-a47c-44cb-b614-89fa63f591c3.png" width="200" height="200" />
-  </div>
-</div>
+<table>
+  <tbody>
+    <tr>
+      <td width="55%"><h3>Some fun facts about me</h3></td>
+      <td width="45%"><h3>Socials</h3></td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>🎓 Senior Computer Science major at Seattle University</li>
+          <li>💻 Love to code</li>
+          <li>🌲 Born and raised in the PNW 🌊🌌</li>
+          <li>❤️ Love WA 📍</li>
+          <li>🌇 Enjoy working out and long walks around the city 🌃 </li>
+          <li>😊 Love spending time with my friends</li>
+        </ul>
+      </td>
+      <td>
+        <div>
+          <a href="https://linkedin.com/in/justinthoreson">
+            <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+          </a>
+          <a href="https://instagram.com/exulgor/">
+            <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+          </a>
+          <a href="https://soundcloud.com/exulgor">
+            <img alt="SoundCloud Badge" src="https://img.shields.io/badge/-SoundCloud-%23ff5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
+          </a>
+          <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-EXULGOR%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white" />
+          <br>
+          <img alt="Snapchat Snapcode" src="https://user-images.githubusercontent.com/77815463/140634145-32a5c929-a47c-44cb-b614-89fa63f591c3.png" width="200" height="200" />
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
   
 ## GitHub Statistics
 
