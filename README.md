@@ -31,10 +31,10 @@ Some fun facts about me:
     <a href="https://linkedin.com/in/justinthoreson">
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://instagram.com/exulgor/">
+<!--     <a href="https://instagram.com/exulgor/">
       <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-<!--     <a href="https://soundcloud.com/exulgor">
+    <a href="https://soundcloud.com/exulgor">
       <img alt="SoundCloud Badge" src="https://img.shields.io/badge/-SoundCloud-%23ff5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
     </a> -->
     <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-EXULGOR%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white" />
