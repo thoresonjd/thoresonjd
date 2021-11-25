@@ -26,7 +26,7 @@ Some fun facts about me:
 - 😊 Love spending time with my friends
 
 My portfolio:
-[Portfolio](https://github.com/thoresonjd/portfolio)
+[Portfolio](https://github.com/thoresonjd/portfolio/blob/main/README.md)
 
 <div>
   <h2>Socials</h2>
