@@ -25,6 +25,9 @@ Some fun facts about me:
 - 🌇 Enjoy working out and long walks around the city 🌃 
 - 😊 Love spending time with my friends
 
+My portfolio:
+[Portfolio](https://github.com/thoresonjd/portfolio)
+
 <div>
   <h2>Socials</h2>
   <div>
