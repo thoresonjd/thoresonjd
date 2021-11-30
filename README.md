@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Justin!
+## I'm Justin!
 
 <!-- Some fun facts about me:
 - 🎓 Senior Computer Science major at Seattle University
