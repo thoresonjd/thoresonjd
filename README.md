@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 
 <table>
   <tbody>
-<!--     <tr>
-      <td width="55%"><h3>Some fun facts about me</h3></td>
-      <td width="45%"><h3>Socials</h3></td>
-    </tr> -->
+    <tr>
+      <td width="50%"><h3>Some fun facts about me</h3></td>
+      <td width="50%"><h3>Socials</h3></td>
+    </tr>
     <tr>
       <td>Some fun facts about me
         <ul>
