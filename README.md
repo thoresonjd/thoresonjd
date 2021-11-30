@@ -58,7 +58,7 @@ Here are some ideas to get you started:
       <td width="45%"><h3>Socials</h3></td>
     </tr> -->
     <tr>
-      <td width="55%">Some fun facts about me
+      <td>Some fun facts about me
         <ul>
           <li>🎓 Senior Computer Science major at Seattle University</li>
           <li>💻 Love to code</li>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
           <li>😊 Love spending time with my friends</li>
         </ul>
       </td>
-      <td width="45%">
+      <td>
         <div>
           <a href="https://linkedin.com/in/justinthoreson">
             <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
