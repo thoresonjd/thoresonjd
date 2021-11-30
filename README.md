@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm Justin!
 
-<!-- Some fun facts about me:
+Some fun facts about me:
 - 🎓 Senior Computer Science major at Seattle University
 - 💻 Love to code
 - 🌲 Born and raised in the PNW 🌊🌌
@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thoresonjd&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoresonjd&theme=dracula)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&exclude_repo=thoresonjd.github.io,resume&hide=C,Objective-C,SCSS,Batchfile,Shell,Makefile,Lex)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&exclude_repo=thoresonjd.github.io,resume&hide=C,Objective-C,SCSS,Batchfile,Shell,Makefile,Lex)](https://github.com/anuraghazra/github-readme-stats)
 
-<table>
+<!-- <table>
   <tbody>
     <tr>
       <td width="50%"><h3>Some fun facts about me</h3></td>
@@ -92,5 +92,4 @@ Here are some ideas to get you started:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thoresonjd&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoresonjd&theme=dracula)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&exclude_repo=thoresonjd.github.io,resume&hide=C,Objective-C,SCSS,Batchfile,Shell,Makefile,Lex)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&exclude_repo=thoresonjd.github.io,resume&hide=C,Objective-C,SCSS,Batchfile,Shell,Makefile,Lex)](https://github.com/anuraghazra/github-readme-stats) -->
