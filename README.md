@@ -25,11 +25,12 @@ Some fun facts about me:
 - 🌇 Enjoy working out and long walks around the city 🌃 
 - 😊 Love spending time with my friends
 
-[My Portfolio](https://github.com/thoresonjd/portfolio/blob/main/README.md)
-
 <div>
-  <h2>Socials</h2>
+  <h2>My Info</h2>
   <div>
+    <a href="https://github.com/thoresonjd/portfolio/blob/main/README.md">
+      <img alt="Portfolio" src="https://img.shields.io/badge/-My%20Portfolio-brightgreen?style=for-the-badge&" />
+    </a>
     <a href="https://linkedin.com/in/justinthoreson">
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
