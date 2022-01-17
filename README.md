@@ -28,7 +28,7 @@ Some fun facts about me:
 <div>
   <h2>My Info</h2>
   <div>
-    <a href="https://github.com/thoresonjd/portfolio/blob/main/README.md">
+    <a href="https://github.com/thoresonjd/github-portfolio/blob/main/README.md">
       <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&" />
     </a>
     <a href="https://linkedin.com/in/justinthoreson">
