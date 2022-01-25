@@ -25,7 +25,7 @@ Some fun facts about me:
 - ❤️ Love WA 📍
 - 🌇 Enjoy working out and long walks around the city 🌃 
 - 😊 Love spending time with my friends
-- 
+
 <div>
   <h2>My Info</h2>
   <div>
