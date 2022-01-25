@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 Some fun facts about me:
 - 🎓 Senior Computer Science major at Seattle University
+- 🖥️ Currently programming a new admin tool for Votegrity
 - 💻 Love to code
 - 🌲 Born and raised in the PNW 🌊🌌
 - ❤️ Love WA 📍
 - 🌇 Enjoy working out and long walks around the city 🌃 
 - 😊 Love spending time with my friends
-
+- 
 <div>
   <h2>My Info</h2>
   <div>
