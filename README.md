@@ -33,22 +33,14 @@ Some fun facts about me:
     <a href="https://linkedin.com/in/justinthoreson">
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-<!--     <a href="https://instagram.com/exulgor/">
-      <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://soundcloud.com/exulgor">
-      <img alt="SoundCloud Badge" src="https://img.shields.io/badge/-SoundCloud-%23ff5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
-    </a> -->
-    <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-EXULGOR%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white" />
-    <br>
-<!--     <img alt="Snapchat Snapcode" src="https://user-images.githubusercontent.com/77815463/140634145-32a5c929-a47c-44cb-b614-89fa63f591c3.png" width="150" /> -->
+    <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-Exulgor%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white" />
   </div>
 </div>
   
 ## GitHub Statistics
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thoresonjd&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoresonjd&theme=dracula)](https://git.io/streak-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thoresonjd&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)\
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoresonjd&theme=dracula)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&exclude_repo=thoresonjd.github.io,resume&hide=C,Objective-C,SCSS,Batchfile,Shell,Makefile,Lex)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <table>
@@ -86,10 +78,4 @@ Some fun facts about me:
       </td>
     </tr>
   </tbody>
-</table>
-  
-## GitHub Statistics
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thoresonjd&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoresonjd&theme=dracula)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&exclude_repo=thoresonjd.github.io,resume&hide=C,Objective-C,SCSS,Batchfile,Shell,Makefile,Lex)](https://github.com/anuraghazra/github-readme-stats) -->
+</table> -->
