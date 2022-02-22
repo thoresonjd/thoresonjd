@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinthoreson)
 ![Discord](https://img.shields.io/badge/Discord-Exulgor%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white)
   
-## 📈 GitHub Statistics 📊
+## 🐍 GitHub Statistics 📊
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thoresonjd&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoresonjd&theme=dracula)](https://git.io/streak-stats)\
