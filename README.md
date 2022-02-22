@@ -23,6 +23,7 @@ Some fun facts about me:
   
 ## GitHub Statistics
 
+![snake gif](https://github.com/thoresonjd/thoresonjd/blob/output/github-contribution-grid-snake.svg)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thoresonjd&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoresonjd&theme=dracula)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&exclude_repo=thoresonjd.github.io,resume&hide=C,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
