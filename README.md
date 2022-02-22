@@ -1,6 +1,7 @@
 # Hey, everyone! I'm Justin! 😄
 
-Some fun facts about me:
+## 🔥 Some fun facts about me:
+
 * 🎓 Senior Computer Science major at Seattle University
 * 🖥️ Currently programming a new admin tool for Votegrity
 * 💻 Love to code
@@ -9,24 +10,21 @@ Some fun facts about me:
 * 🌇 Enjoy working out and long walks around the city 🌃 
 * 😊 Love spending time with my friends
 
-## My Info
+## 📚 My Portfolio
 
-<div>
-  <a href="https://github.com/thoresonjd/github-portfolio/blob/main/README.md">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&" />
-  </a>
-  <a href="https://linkedin.com/in/justinthoreson">
-    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-Exulgor%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white" />
-</div>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&)](https://github.com/thoresonjd/github-portfolio/blob/main/README.md)
+
+## 📬 Social 📱
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinthoreson)
+![Discord](https://img.shields.io/badge/Discord-Exulgor%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white)
   
-## GitHub Statistics
+## 📈 GitHub Statistics 📊
 
-![snake gif](https://github.com/thoresonjd/thoresonjd/blob/output/github-contribution-grid-snake.svg)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thoresonjd&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoresonjd&theme=dracula)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&exclude_repo=thoresonjd.github.io,resume&hide=C,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
+![snake gif](https://github.com/thoresonjd/thoresonjd/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **thoresonjd/thoresonjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
