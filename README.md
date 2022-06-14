@@ -2,8 +2,9 @@
 
 ## 🔥 Some fun facts about me:
 
-* 🎓 Senior Computer Science major at Seattle University
-* 🖥️ Currently programming a new admin tool for Votegrity
+* 👨‍🎓 Bachelor of Science in Computer Science
+* 🎓 MSCS Graduate Student @ Seattle University
+* 🖥️ TPM Intern @ T-Mobile
 * 💻 Love to code
 * 🌲 Born and raised in the PNW 🌊🌌
 * ❤️ Love WA 📍
