@@ -13,7 +13,7 @@
 
 ## 📚 My Portfolio
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&)](https://github.com/thoresonjd/github-portfolio/blob/main/README.md)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&)](https://github.com/thoresonjd/markdown-portfolio/blob/main/README.md)
 
 ## 📬 Social 📱
 
