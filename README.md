@@ -18,7 +18,7 @@
 ## 📬 Social 📱
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinthoreson)
-![Discord](https://img.shields.io/badge/Discord-Exulgor%230924-%237289da?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Exulgor%230924-5865F2?style=for-the-badge&logo=discord&logoColor=white)
   
 ## 📊 GitHub Statistics 🐍
 
