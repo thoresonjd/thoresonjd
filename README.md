@@ -4,7 +4,7 @@
 
 * 👨‍🎓 Bachelor of Science in Computer Science
 * 🎓 MSCS Graduate Student @ Seattle University
-* 🖥️ UofMagenta Intern @ T-Mobile
+* 🖥️ Software Engineer Intern @ T-Mobile
 * 💻 Love to code
 * 🌲 Born and raised in the PNW 🌊🌌
 * ❤️ Love WA 📍
