@@ -14,7 +14,7 @@
 ## 📚 My Portfolio
 
 [![Portfolio](https://img.shields.io/badge/-React%20Portfolio-brightgreen?style=for-the-badge&)](https://thoresonjd.github.io/react-portfolio)
-[![Portfolio](https://img.shields.io/badge/-Markdown%20Portfolio-red?style=for-the-badge&)](https://github.com/thoresonjd/markdown-portfolio/blob/main/README.md)
+<!-- [![Portfolio](https://img.shields.io/badge/-Markdown%20Portfolio-red?style=for-the-badge&)](https://github.com/thoresonjd/markdown-portfolio/blob/main/README.md) -->
 
 ## 📬 Social 📱
 
