@@ -14,11 +14,14 @@
 ## 📚 My Portfolio
 
 [![Portfolio](https://img.shields.io/badge/-React%20Portfolio-brightgreen?style=for-the-badge&)](https://thoresonjd.github.io/react-portfolio)
-<!-- [![Portfolio](https://img.shields.io/badge/-Markdown%20Portfolio-red?style=for-the-badge&)](https://github.com/thoresonjd/markdown-portfolio/blob/main/README.md) -->
 
 ## 📬 Social 📱
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinthoreson)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoresonjd)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/thoresonjd)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/exulgor)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/exulgor/)
 ![Discord](https://img.shields.io/badge/Discord-Exulgor%230924-5865F2?style=for-the-badge&logo=discord&logoColor=white)
   
 ## 📊 GitHub Statistics 🐍
