@@ -13,7 +13,7 @@
 
 ## 📚 My Portfolio
 
-[![Portfolio](https://img.shields.io/badge/-React%20Portfolio-brightgreen?style=for-the-badge&)](https://thoresonjd.github.io/react-portfolio)
+[![Portfolio](https://img.shields.io/badge/-React%20Portfolio-brightgreen?style=for-the-badge&)](https://thoresonjd.github.io/react-portfolio/#/)
 
 ## 📬 Social 📱
 
