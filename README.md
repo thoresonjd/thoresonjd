@@ -1,4 +1,6 @@
-# Hey, everyone! I'm Justin! 😄
+<div align="center"> 
+  <img src="https://user-images.githubusercontent.com/77815463/208833534-b357a2d4-a1c3-4498-9a67-9c9c444ce134.gif" alt="justin" />
+</div><br />
 
 ## 🔥 Some fun facts about me:
 
