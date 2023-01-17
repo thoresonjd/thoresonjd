@@ -28,9 +28,9 @@
   
 ## 📊 GitHub Statistics 🐍
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thoresonjd&theme=graywhite&bg_color=0,ff0000,ffa500,ffff00,00ff00&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)\
+[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thoresonjd&theme=graywhite&bg_color=0,ff0000,ffa500,ffff00,00ff00&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoresonjd&theme=dracula)](https://git.io/streak-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&exclude_repo=pacman-projects-ucberkeley-ai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&exclude_repo=pacman-projects-ucberkeley-ai)](https://github.com/anuraghazra/github-readme-stats)
 ![snake gif](https://github.com/thoresonjd/thoresonjd/blob/output/github-contribution-grid-snake.svg)
 
 <!--
