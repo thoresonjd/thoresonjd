@@ -31,7 +31,7 @@
 [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thoresonjd&theme=dracula&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoresonjd&theme=dracula&hide_border=true)](https://git.io/streak-stats)\
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&hide_title=true&hide_border=true&hide=html,css&exclude_repo=pacman-projects-ucberkeley-ai)](https://github.com/anuraghazra/github-readme-stats)
-[![Snake GIF](https://github.com/thoresonjd/thoresonjd/blob/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+[![Snake GIF](https://github.com/thoresonjd/thoresonjd/blob/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
 
 <!--
 **thoresonjd/thoresonjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
