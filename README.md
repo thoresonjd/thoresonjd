@@ -4,12 +4,13 @@
 
 ## 🔥 Some fun facts about me:
 
-* 🎓 MSCS '23 & BSCS '22 @ Seattle University
-* 💻 Love to code
-* 🌲 Born and raised in the PNW 🌊🌌
-* ❤️ Love WA 📍
-* 🌇 Enjoy working out and long walks around the city 🌃 
-* 😊 Love spending time with my friends
+- 🕹️ Associate Network Engineer, SDET @ Nintendo Technology Development
+- 🎓 MSCS '23 & BSCS '22 @ Seattle University
+- 💻 Love to code
+- 🌲 Born and raised in the PNW 🌊🌌
+- ❤️ Love WA 📍
+- 🌇 Enjoy working out and long walks around the city 🌃 
+- 😊 Love spending time with my friends
 
 ## 📚 My Portfolio
 
@@ -23,12 +24,6 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/462408381261545492)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/exulgor/)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/exulgor)
-  
-<!-- ## 📊 GitHub Statistics
-
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thoresonjd&theme=dracula&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)\
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoresonjd&theme=dracula&hide_border=true)](https://git.io/streak-stats)\
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thoresonjd&theme=dracula&layout=compact&langs_count=10&hide_title=true&hide_border=true&hide=html,css,scss&exclude_repo=pacman-projects-ucberkeley-ai,Global-Calendar)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🐍 Contribution Graph Snake
 
